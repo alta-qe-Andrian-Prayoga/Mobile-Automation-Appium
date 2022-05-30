@@ -1,7 +1,7 @@
 Teknologi Mobile automation testing menggunakan Appium
 
-cara menjalankannya:
+>cara menjalankannya:
 
-buka terminal
-running melalui terminal dengan perintah mvn clean verify
-buka report serenity/index.html
+- buka terminal
+- running melalui terminal dengan perintah mvn clean verify
+- buka report serenity/index.html
